@@ -17,5 +17,9 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geneses/async-storage-by-geneses.git"
+  }
 }
